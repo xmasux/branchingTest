@@ -20,6 +20,7 @@ public class Calculator {
     }
 
     public int mul(int a, int b) {
+    	// new branch one
         return a*b;
     }
 
