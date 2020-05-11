@@ -13,6 +13,7 @@ package com.example.project;
 public class Calculator {
 
     public int add(int a, int b) {
+    	// master
         int result = a;
         result += b;
         return result;
