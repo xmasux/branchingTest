@@ -32,7 +32,6 @@ public class Calculator {
     }
 
     public int sub(int a, int b) {
-    	// master
         return a - b;
     }
 }
