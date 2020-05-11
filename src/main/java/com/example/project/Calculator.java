@@ -13,6 +13,7 @@ package com.example.project;
 public class Calculator {
 
     public int add(int a, int b) {
+    	// new branch one
     	// new branch two
     	// master
         int result = a;
@@ -21,6 +22,7 @@ public class Calculator {
     }
 
     public int mul(int a, int b) {
+    	// new branch one
         return a*b;
     }
 
