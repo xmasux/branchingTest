@@ -27,6 +27,7 @@ public class Calculator {
     }
 
     public int div(int a, int b) {
+	// new branch three
         int result = a;
         result /= b;
         return result;
