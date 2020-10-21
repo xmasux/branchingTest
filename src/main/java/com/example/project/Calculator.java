@@ -14,7 +14,7 @@ public class Calculator {
 
     public int add(int a, int b) {
     	// new branch one
-    	// new branch two
+    	// new branch four
     	// master
         int result = a;
         result += b;
